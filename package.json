@@ -21,5 +21,8 @@
     "stylelint": "^9.6.0",
     "stylelint-config-sass-guidelines": "^5.4.0"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "server": "^1.0.29"
+  }
 }
